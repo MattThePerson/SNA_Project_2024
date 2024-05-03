@@ -15,8 +15,7 @@ The code can be found in the 'notebooks' folder. Each notebook is named accordin
 * **notebooks starting with 2.x:** Rudimentary Network/Graph Analysis
     - degree centrality (viewing and analysis)
     - connected components
-    - average path length
-    - diameter
+    - average path length & diameter
     - computing and displaying abstracted version of graph (hashtag network)
 
 * **notebooks starting with 3.x:** Analysis of Network Evolution:
